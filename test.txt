@@ -1,3 +1,2 @@
 Made some files to master branch.
-
-Made updates to master local branch.
+Deleted a single line form master branch.
