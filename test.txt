@@ -1,3 +1,5 @@
 Made some files to master branch.
 
 Hello from local master branch.
+
+Added a new line to master branch.
